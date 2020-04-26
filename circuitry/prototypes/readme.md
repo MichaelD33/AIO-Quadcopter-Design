@@ -1,4 +1,4 @@
-# AIO Quadcopter Circuit Board Design File Directory:
+# AIO Quadcopter Legacy PCB Design Directory:
 
 ---
 
